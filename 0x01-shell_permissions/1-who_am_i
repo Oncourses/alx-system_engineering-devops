@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD:0x02-shell_redirections/21-reverse
+rev
+=======
+whoami
+>>>>>>> 7124f54550e0972779b7b26ca11944a9f89c360a:0x01-shell_permissions/1-who_am_i

@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD:0x02-shell_redirections/19-AZ
+tr Ac Ze
+=======
+su betty
+>>>>>>> 7124f54550e0972779b7b26ca11944a9f89c360a:0x01-shell_permissions/0-iam_betty
